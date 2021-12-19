@@ -1,19 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
 
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Trade Winds', cursive;}
+    font-family: 'Jost', sans-serif;
+}
+
 
 
 body {
-    background-color: rgb(134, 128, 128);
+    background-color: rgb(243, 243, 243);
+    
 }
 
 header {
-    border-bottom: 1px solid rgb(184, 184, 184);
+    border-bottom: 1px solid rgb(255, 255, 255);
     padding: 10px 0;
     position: fixed;
     width: 100%;
@@ -36,7 +39,7 @@ header {
 
 .logo a{
     text-decoration: none;
-    font-family: 'Cookie', cursive;
+    font-family: 'Trade Winds', cursive;
     letter-spacing: 2px;
     font-size: 2em;
     font-weight: 600;
@@ -45,7 +48,7 @@ header {
 
 .profil img {
     border-radius: 50%;
-    border: 1px solid #d0d0d0;
+    border: 1px solid #ffffff;
     padding: 3px;
     margin-right: 10px;
 }
@@ -65,7 +68,7 @@ main {
 }
 
 .boxContent {
-    border: 1px solid rgb(194, 194, 194);
+    border: 1px solid rgb(255, 255, 255);
     background-color: #ffffff;
     margin-bottom: 50px;
     align-items: justify;
