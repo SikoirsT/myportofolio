@@ -170,6 +170,7 @@ main {
 }
 
 .aboutMe img {
+    align-items: center;
     margin-right: 10px;
 }
 
