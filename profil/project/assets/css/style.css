@@ -204,7 +204,7 @@ header {
 }
 
 .visit a:hover {
-    background-color: #000000;
+    background-color: #00f365;
 }
 
 @media (max-width:473px) {
