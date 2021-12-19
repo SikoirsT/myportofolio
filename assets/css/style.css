@@ -23,8 +23,12 @@ header {
     top: 0;
     z-index: 99;
     background-color: #ffffff;
+    
 }
-
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
 .headerProfil {
     max-width: 850px;
     margin: auto;
