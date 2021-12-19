@@ -99,6 +99,15 @@ main {
     margin: 20px 10px;
 }
 
+.blink_me {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
 .namaDua {
     font-weight: bold;
     text-align: justify;
