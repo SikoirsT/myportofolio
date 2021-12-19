@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Rampart+One&display=swap');
 
 
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Courier New';
-}
-
+    font-family: 'Rampart One', cursive;
 
 body {
     background-color: rgb(243, 243, 243);
@@ -35,7 +36,7 @@ header {
 
 .logo a{
     text-decoration: none;
-    font-family: 'Courier New', fantasy;
+    font-family: 'Courier New', cursive;
     letter-spacing: 2px;
     font-size: 2em;
     font-weight: 600;
